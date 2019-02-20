@@ -5,7 +5,7 @@
 **Today's Progress**: Solved two Project Euler problems, Started bashxl
 Fixed CSS, worked on canvas functionality for the app.
 
-**Link to work:** [Calculator App](https://github.com/bsipin20/bashxl)
+**Link to work:** [bashxl](https://github.com/bsipin20/bashxl)
 
 **Thoughts:** 
 Focused on writting working Project Euler code without thinking of best practices. In future think of solutions in terms of space and time. Write ways to improve (e.g. p001.py could have used generators). 
