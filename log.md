@@ -8,7 +8,7 @@ Fixed CSS, worked on canvas functionality for the app.
 **Link to work:** [bashxl](https://github.com/bsipin20/bashxl)
 
 **Thoughts:** 
-Focused on writting working Project Euler code without thinking of best practices. In future think of solutions in terms of space and time. Write ways to improve (e.g. p001.py could have used generators). 
+Focused on writting working Project Euler code without thinking of best practices. In future write in comments how solution works with space and time (todo). Write ways to improve (e.g. p001.py could have used generators). 
 bashxl seems like a good first side project. Helps me focus on building packages, documentation, command line arguments. 
 
 ### Day 1: June 27, Monday
